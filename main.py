@@ -5,7 +5,7 @@ from magpylib_material_response import meshing, demag
 # dimensions of the cuboid (m)
 A, B, C = 100e-6, 10e-6, 10e-6
 
-# polarization of the cuboid before demagnetization effects (T)
+# polarization of the cuboid (T)
 POLARIZATION = (0, 0, 1)
 
 # number of cells to discretise the magnet into
